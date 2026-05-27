@@ -71,6 +71,7 @@ class LinkedList:
         print("None") 
 JuniorList = LinkedList()
 
+#prints the names of the students in the junior class
 JuniorList.insertAtBegin("Martins")
 JuniorList.insertAtIndex("Brandon", 1)
 JuniorList.insertAtIndex("Chris", 2)
